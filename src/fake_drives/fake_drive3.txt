@@ -1,0 +1,5 @@
+SMART overall-health self-assessment test result: FAILED
+ID# ATTRIBUTE_NAME          VALUE WORST THRESH TYPE      UPDATED  WHEN_FAILED RAW_VALUE
+  5 Reallocated_Sector_Ct    80    80   050    Pre-fail  Always       -       15
+  9 Power_On_Hours           070    70   000    Old_age   Always       -       5000
+194 Temperature_Celsius      070    070  000    Old_age   Always       -       70
